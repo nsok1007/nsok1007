@@ -1,5 +1,5 @@
 - 💡 I’m passionate about psychology and the intersection of health, design, and tech
-- 🌱 I’m learning how to pivot into UI/UX and teaching myself basic software development skills
+- 🌱 I’m learning how to pivot into web design/programming and teaching myself basic software development skills
 - 🌾 I’m looking to collaborate on low-code projects and beginner-friendly web design projects
 - 💞️ I'm a tea enthusiast and can be found watching YA tv-dramas or listening to K-pop  
   
