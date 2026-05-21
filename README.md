@@ -2,7 +2,7 @@
 **I'm Nik (they/them)** – starting my front-end web design journey and learning HTML, CSS, and JavaScript! Pivoting from an academic background in psychology and graphic design, I'm interested in leveraging my knowledge to create minimalist websites and mobile applications that educate and inform, while augmenting my experience with multimedia design and writing across creative, blog, and research media.
 
 ## About Me 🌱
-- Currently working on developing a front-end version of [Octocon](https://github.com/OctoconDev/octocon.git) for personal use
+- Currently studying part-time with LaunchCode's software-development program
 
 ## Accomplishment 🌾
 - Participated in the 2022 [Clark Tank: App Design Challenge](https://www.clarku.edu/departments/entrepreneurship-and-innovation/2022/02/28/clark-tank-app-design-challenge-2022-winners-announced/) – Developed and pitched MoonLit, a trauma-informed mobile app concept for adult survivors of childhood trauma
